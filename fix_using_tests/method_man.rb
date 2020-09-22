@@ -6,7 +6,7 @@ def start_game(player1, player2)
   
 end
   
-def play_game(String)
+def play_game(player1)
 
   
  "#{player1} is better than #{player2}"
